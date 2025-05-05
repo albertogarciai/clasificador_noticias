@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+nltk
+textblob
+vaderSentiment
+streamlit
+pickle-mixin
